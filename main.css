@@ -1,7 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
 
 *{
 font-family: 'Outfit', sans-serif; 
@@ -117,12 +117,12 @@ width: fit-content;
 align-self: center;
 
 }
-.cardFooter article span{
+.cardFooter h6 span{
 color:white;
 
 }
 
-.cardFooter article span:hover{
+.cardFooter h6 span:hover{
 color: hsl(178, 100%, 50%);
 cursor: pointer;
 }
