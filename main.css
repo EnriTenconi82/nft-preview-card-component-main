@@ -117,12 +117,12 @@ width: fit-content;
 align-self: center;
 
 }
-.cardFooter h6 span{
+.cardFooter h2 span{
 color:white;
 
 }
 
-.cardFooter h6 span:hover{
+.cardFooter h2 span:hover{
 color: hsl(178, 100%, 50%);
 cursor: pointer;
 }
